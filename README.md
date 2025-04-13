@@ -5,7 +5,7 @@
 
 <div align="center">
   
-## Hello, world! Eu sou Flávio Henrique
+## Hello, world! Flávio Henrique aqui!
 💻 Desenvolvedor com 10 anos de experiência em sistemas web e desktop.<br>
 📊 Especialista em migração e integração de dados com foco em performance.<br>
 🌐 Familiaridade com cloud (Amazon S3), APIs REST e diversos bancos de dados.<br>
